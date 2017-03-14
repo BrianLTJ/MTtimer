@@ -1,0 +1,23 @@
+{
+  "name": "mt-timer",
+  "version": "1.0.0",
+  "description": "A web tomato timer using materialize design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianLTJ/MTtimer.git"
+  },
+  "author": "Tingjun Li",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/BrianLTJ/MTtimer/issues"
+  },
+  "homepage": "https://github.com/BrianLTJ/MTtimer#readme",
+  "dependencies": {
+    "materialize-css": "^0.98.0",
+    "vue": "^2.2.4"
+  }
+}
